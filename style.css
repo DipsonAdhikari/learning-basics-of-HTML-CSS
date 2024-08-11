@@ -54,4 +54,6 @@ footer{
 }
 #content{
     height: 600px;
+    position: absolute;
+    top:50px;
 }
