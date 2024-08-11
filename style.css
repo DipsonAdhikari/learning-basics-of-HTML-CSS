@@ -46,6 +46,9 @@ footer{
    background-color:#0f1111;
    border-radius: 10px;
    padding-top: 10px;
+   position: fixed;
+   bottom:0px;
+   width: 100%;
 }
 #content{
     height: 600px;
