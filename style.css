@@ -18,6 +18,8 @@
     height:60px;
     background-color: #0f1111;
     border-radius: 10px;
+    position: fixed;
+    top: 0px;
 }
 a{
     margin-right: 200px;
